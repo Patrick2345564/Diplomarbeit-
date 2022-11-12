@@ -1,0 +1,103 @@
+Aufgaben Diplomarbeit:
+
+Grundkonzept bis 28.09.2022:
+
+1. Titel des Konzeptes
+
+Der Titel ist natürlich der Name deines Projektes. Nett ist, wenn dein Konzept ein Deckblatt hat, auf dem der Name steht, hast du ein Logo, gehört es dorthin. Unten rechts oder links schreibst du den Namen deiner Organisation, Adresse und Kontaktdaten.
+
+2. Einleitung
+
+Sie sollte nicht mehr als eine halbe Seite umfassen und steht deiner Konzeption voran. Hier fasst du das Projekt kurz in zwei bis drei Sätzen zusammen. Es kann sinnvoll sein, diese Zusammenfassung erst zum Schluss zu formulieren, wenn du alles andere geschrieben hast.
+
+Außerdem kommen hier Informationen zu deiner Organisation hin. Wofür steht sie? Welche Werte sind euch wichtig? Habt ihr Erfahrungen, auf denen ihr aufbaut und die euch für dieses Projekt empfehlen? Und nicht zuletzt: Welche Rechtsform hat deine Organisation? Verein? gGmbH?
+
+3. Ausgangssituation
+
+Hier beschreibst du den Missstand, den dein Projekt beheben soll, das Problem, zu dessen Lösung dein Projekt beiträgt. Hast du konkrete Zahlen oder Statistiken, dann nenne sie hier.
+
+4. Ziele
+
+Was sind die Ziele deines Projektes? Achtung: Das Ziel ist nicht die Durchführung der Maßnahme xy, sondern das, was du mit der Durchführung der Maßnahme xy erreichen willst. Du formulierst sozusagen den Zustand, den du nach Durchführung des Projektes erreicht haben willst. Die Zielformulierung ist nicht einfach, schau dir dazu den Beitrag Projektziele formulieren an, dort findest du ausführliche Erklärungen.
+
+Fasse dein Ziel nicht zu groß, sei in der Formulierung möglichst konkret. Das SMART-Kriterium ist hier hilfreich,
+
+S – spezifisch Das Ziel so konkret wie möglich beschreiben!
+
+M – messbar Nenne hier ruhig Zahlen, z.B. wie viele Teilnehmende willst du erreichen?
+
+A – attraktiv Ziele herausfordernd und positiv formulieren
+
+R – realistisch Das Ziel sollte auch erreichbar sein
+
+T – terminiert Lege einen Zeitpunkt für die Zielerreichung fest.
+
+5. Zielgruppe
+
+Beschreibe hier die Zielgruppe, die du mit dem Projekt erreichen willst. Alter, Geschlecht, spezifische Problemlage und so weiter.
+
+Du kannst hier zwischen der direkten und der indirekten Zielgruppe unterscheiden. Bietest du zum Beispiel einen Erziehungskurs für Eltern an, sind Eltern deine direkte Zielgruppe. Deine indirekte Zielgruppe wären dann die Kinder, denn sie profitieren indirekt von deiner Maßnahme. Prüfe, wie das in deinem Projekt ist.
+
+Mach auch deutlich, wie du die Zielgruppe erreichst.
+
+6. Geplante Maßnahmen
+
+Ein Kernstück deines Konzeptes, denn hier beschreibst du die Bausteine deines Projektes. Was wird angeboten? Wo? Wie oft? Für wie viel Teilnehmende?
+
+Und welche Methoden setzt du ein? Einzelberatung? Gruppenarbeit? Peer-Elemente?
+
+7. Räumlichkeiten
+
+Wenn du diesen Punkt nicht schon bei den Maßnahmen geklärt hast, dann mach es jetzt hier. Habt ihr besondere Räumlichkeiten? Muss für das Projekt etwas angemietet werden? Nutzt ihr Räumlichkeiten von Kooperationspartnern?
+
+8. Personal/Ehrenamtliche
+
+Welches Personal wird für das Projekt eingesetzt oder benötig? Welche Qualifikation hat es? Sind Ehrenamtliche im Einsatz? Wer hat welche Aufgaben? Welche Unterstützung gibt es für das Personal oder die Ehrenamtlichen? Fortbildungen?
+
+9. Kooperationen, Partner, Netzwerke
+
+Nenne hier deine Kooperationspartner, solltest du welche haben. Ist deine Organisation vernetzt, dann beschreibe das hier.
+
+10. Evaluation, Dokumentation, Perspektive
+
+Es macht sich gut, wenn du diese Punkte in dein Konzept mit aufnimmst, für ein Kurzkonzept kannst du sie weglassen. Ansonsten schreibe hier, wie Projektergebnisse dokumentiert werden. Gibt es eine Evaluation zur Qualitätssicherung deines Projektes? Wenn ja, in welcher Form? Dazu kannst du dir gerne den Beitrag Einfache Wege zur Evaluation in diesem Blog anschauen, lass dich dort inspirieren.
+
+Praktische Umsetzung bis 28.09.2022:
+
+bei einem praktischen Teil – die Umsetzung. 
+Diese wird ebenfalls im Hauptteil der Arbeit beschrieben und diskutiert. 
+Handelt es sich um eine Aufgabe, so werden die einzelnen Arbeitsschritte beschrieben. 
+Handelt es sich stattdessen um eine Diskussion, so werden eher Resultate und Lösungsansätze aufgeführt. 
+Bei einer praktischen Umsetzung werden in diesem Teil Problemquellen und entstandene Fehler kurz diskutiert und ausgewertet. 
+Bei manchen Arbeiten empfiehlt es sich hier auch, Grenzen der jeweiligen Methode oder Umsetzung zu beschreiben und mögliche Lösungen zu präsentieren.
+
+
+Server aufsetzten bis 28.09.2022
+
+DHCP Server konfigurieren bis 20.10.2022
+
+Admin Benutzer anlegen bis 18.11.2022
+
+Mail Server mit POP oder IMAP oder SMTP bis 12.01.2023
+
+Python Client Programm bsi 31.01.2023
+
+Theoretischen Grundlagen von DHCP bis 10.02.2023
+
+Theoretischen Grundlagen von Admin Rechten bis 10.02.2023
+
+Theoretischen Grundlagen von Mail Server bis 10.02.2023
+
+Theoretischen Grundlagen von Python Client Programm bis 10.02.2023
+
+Abschluss des Projektes bis 08.03.2023
+
+Finale Abgabe bis 31.03.2023
+
+Zwischen 8.3 und 31.3 Zeit zum Verbessern falls Betreuer Verbesserungsvorschläge wünscht.
+
+
+
+
+
+
